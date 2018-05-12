@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '44536'
     url: http://www.gutenberg.org/2009/agents/44536
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36319#De-drooglegging-der-Zuiderzeehet-plan-J.-Ulehake-contra-het-plan-C.-Lely
 gutenberg_issued: '2011-06-03'
 gutenberg_type: Text
 identifiers:
